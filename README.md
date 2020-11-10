@@ -4,6 +4,7 @@
 
 # Demo
 ![Readme Generator Demo:](./demo/README_Generator_HW-Demo.gif)
+Fullscreen Edition inside of the "Demo" Folder!
 
 # Readme Generator
 
