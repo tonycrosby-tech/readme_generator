@@ -18,8 +18,8 @@ ${reformatted.Description}
 * ${`[Credits]`}(#Credits)
 * ${`[Test]`}(#Test)
 * ${`[Contributing]`}(#Contributing)
-* ## ${`Installations`}
-${reformatted.Installations}
+# ${`Installations`}
+> ${reformatted.Installations}
 # ${`Usage`}
 ${reformatted.Usage}
 # ${`License`}

@@ -2,9 +2,9 @@
   ![GitHub Issues state](https://img.shields.io/github/issues/tonycrosby-tech/readme_generator)
   ![GitHub License:](https://img.shields.io/github/license/tonycrosby-tech/readme_generator)
   ![GitHub Stars:](https://img.shields.io/github/stars/tonycrosby-tech/readme_generator)
-# README Generator
+# Readme Generator
 # Description
-This Project will generate a README.md file for any project you are working on. The file will include title, description, table of contents with links to other parts of the page, installations, usage, license, test, and credits.
+This will generate a README.md file for any project you are working on. The file will include: title, description, table of content with links to other parts of the page, installations, usage, license, test, and credits.
 # Table of Contents
 * [Installations](#Installations)
 * [Usage](#Usage)
@@ -12,8 +12,8 @@ This Project will generate a README.md file for any project you are working on. 
 * [Credits](#Credits)
 * [Test](#Test)
 * [Contributing](#Contributing)
-* ## Installations
-npm i
+# Installations
+> npm i
 # Usage
 This project is used to create a formatted README file with ease. In your terminal, type "node + (file name)" And you will be prompted with questions, for which the answers will be utilized in your README file.
 # License
@@ -23,4 +23,4 @@ Tony Crosby
 # Test
 test
 # Contributing
-By contacting me
+They can dm me on github.
