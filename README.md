@@ -4,7 +4,7 @@
 
 # Demo
 ![Readme Generator Demo:](./demo/README_Generator_HW-Demo.gif)
-Fullscreen Edition inside of the "Demo" Folder!
+Fullscreen Edition here : https://drive.google.com/file/d/1w54IBYOa4HmU84iuV5mUNhwvvBDtUfYT/view?usp=sharing
 
 # Readme Generator
 
